@@ -1,0 +1,6 @@
+const anna = new Person('Anna', 'Karutina')
+console.log(anna)
+anna.greeting()
+const urmas = new Person('Urmas', 'Voevodin')
+console.log(urmas)
+urmas.greeting()
